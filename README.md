@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**karem5k5k5/karem5k5k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kareem Mohamed, a passionate software engineer with hands-on expertise in building scalable, maintainable and high performance backend applications and database management using SQL and No-SQL databases.
+Looking for new challenges in job market to strive and leverage my skills to participate into real world projects that solve everyday problems for the users around the world.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stacks :- 
+Golang
+Nodejs
+TypeScript
+JavaScript
+Express
+MongoDB
+PostgreSQL
